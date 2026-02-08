@@ -1,0 +1,2 @@
+# js-library
+Example of a simple js app that consumes javascript classes (including web components) via CDN. [index.html](/index.html) and [main.js](/main.js) consume the example library in `src` and `dist`.
